@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62628408/149734737-cd534c5b-03d9-4ad3-af77-70d6784d98cc.png" align="center" width="50%">
 </p>
@@ -271,3 +272,7 @@ We are using plain `CSS` for this project and you can find that in the `docs/css
 
 If you like this project, kindly star ⭐ and share this project. It means the world to us.
 You can also offer support by donating to keep this project going.
+=======
+# portfolio
+My Personal portfolio
+>>>>>>> cfd2a91bca3e76d33e81ce3a052060ac37412882
